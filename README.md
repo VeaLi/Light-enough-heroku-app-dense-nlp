@@ -26,7 +26,8 @@ Example:
 
 https://polar-island-26100.herokuapp.com/rater/?text=high%20rating%20is%20deserved
 
-![alt text](overlap.png)
-
+<br>
+<img src="overlap.png" alt="overlap" width="330">
+<br>
 
 [1] Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011).
